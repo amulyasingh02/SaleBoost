@@ -1,0 +1,177 @@
+{
+  "transactions": [
+    {
+      "customer_id": 1,
+      "items": ["apple", "banana", "orange", "grape"],
+      "promotion": "10% off on fruits"
+    },
+    {
+      "customer_id": 2,
+      "items": ["banana", "orange", "grape", "pineapple"],
+      "promotion": "Buy 2 get 1 free on fruits"
+    },
+    {
+      "customer_id": 3,
+      "items": ["apple", "orange", "pineapple"],
+      "promotion": "5% off on apples and oranges"
+    },
+    {
+      "customer_id": 4,
+      "items": ["apple", "banana", "orange", "grape", "pineapple"],
+      "promotion": "20% off on fruits for orders above $50"
+    },
+    {
+      "customer_id": 5,
+      "items": ["banana", "grape", "kiwi"],
+      "promotion": "Free grape on purchase of 2 bananas"
+    },
+    {
+      "customer_id": 6,
+      "items": ["apple", "banana", "grape", "pineapple", "kiwi"],
+      "promotion": "10% off on fruits for new customers"
+    },
+    {
+      "customer_id": 7,
+      "items": ["apple", "orange", "grape", "pineapple"],
+      "promotion": "20% off on fruits for orders above $50"
+    },
+    {
+      "customer_id": 8,
+      "items": ["apple", "banana", "kiwi"],
+      "promotion": "10% off on apples and bananas"
+    },
+    {
+      "customer_id": 9,
+      "items": ["banana", "orange", "kiwi"],
+      "promotion": "Buy 1 get 1 free on oranges"
+    },
+    {
+      "customer_id": 10,
+      "items": ["apple", "banana", "orange", "grape", "pineapple", "kiwi"],
+      "promotion": "5% off on fruits for orders above $20"
+    },
+    {
+      "customer_id": 11,
+      "items": ["apple", "banana", "orange", "grape"],
+      "promotion": "10% off on fruits"
+    },
+    {
+      "customer_id": 12,
+      "items": ["banana", "orange", "grape", "pineapple"],
+      "promotion": "Buy 2 get 1 free on fruits"
+    },
+    {
+      "customer_id": 13,
+      "items": ["apple", "orange", "pineapple"],
+      "promotion": "5% off on apples and oranges"
+    },
+    {
+      "customer_id": 14,
+      "items": ["apple", "banana", "orange", "grape", "pineapple"],
+      "promotion": "20% off on fruits for orders above $50"
+    },
+    {
+      "customer_id": 15,
+      "items": ["banana", "grape", "kiwi"],
+      "promotion": "Free grape on purchase of 2 bananas"
+    },
+    {
+      "customer_id": 16,
+      "items": ["apple", "banana", "grape", "pineapple", "kiwi"],
+      "promotion": "10% off on fruits for new customers"
+    },
+    {
+      "customer_id": 17,
+      "items": ["apple", "orange", "grape", "pineapple"],
+      "promotion": "20% off on fruits for orders above $50"
+    },
+     
+    {
+      "customer_id": 18,
+      "items": ["banana", "orange", "grape"],
+      "promotion": "Buy 2 get 1 free on fruits"
+    },
+    {
+      "customer_id": 19,
+      "items": ["apple", "orange"],
+      "promotion": "5% off on apples and oranges"
+    },
+    {
+      "customer_id": 20,
+      "items": ["apple", "banana", "orange", "grape"],
+      "promotion": "20% off on fruits for orders above $50"
+    },
+    {
+      "customer_id": 21,
+      "items": ["banana", "grape"],
+      "promotion": "Free grape on purchase of 2 bananas"
+    },
+    {
+      "customer_id": 22,
+      "items": ["apple", "banana", "grape"],
+      "promotion": "10% off on fruits for new customers"
+    },
+    {
+      "customer_id": 23,
+      "items": ["apple", "orange", "grape"],
+      "promotion": "20% off on fruits for orders above $50"
+    },
+    {
+      "customer_id": 24,
+      "items": ["apple", "banana"],
+      "promotion": "10% off on apples and bananas"
+    },
+    {
+      "customer_id": 25,
+      "items": ["banana", "orange"],
+      "promotion": "Buy 1 get 1 free on oranges"
+    },
+    {
+      "customer_id": 26,
+      "items": ["apple", "banana", "orange"],
+      "promotion": "5% off on fruits for orders above $20"
+    },
+    {
+      "customer_id": 27,
+      "items": ["apple", "banana", "orange"],
+      "promotion": "10% off on fruits for new customers"
+    },
+    {
+      "customer_id": 28,
+      "items": ["apple", "orange"],
+      "promotion": "15% off on apples and oranges for orders above $30"
+    },
+    {
+      "customer_id": 29,
+      "items": ["banana", "orange", "grape"],
+      "promotion": "20% off on fruits for orders above $50"
+    },
+    {
+      "customer_id": 30,
+      "items": ["apple", "banana", "orange", "grape"],
+      "promotion": "Buy 3 get 1 free on fruits"
+    },
+    {
+      "customer_id": 31,
+      "items": ["apple", "banana", "orange"],
+      "promotion": "5% off on fruits for orders above $20"
+    },
+    {
+      "customer_id": 32,
+      "items": ["apple", "grape"],
+      "promotion": "10% off on apples and grapes"
+    },
+    {
+      "customer_id": 33,
+      "items": ["banana", "orange", "grape"],
+      "promotion": "15% off on fruits for orders above $40"
+    },
+    {
+      "customer_id": 34,
+      "items": ["banana", "grape"],
+      "promotion": "Free banana on purchase of 2 grapes"
+    }
+      ]
+}
+   
+      
